@@ -1,5 +1,6 @@
 {
  "cSpell.ignoreWords": [
   "repos"
- ]
+ ],
+ "git.ignoreLimitWarning": true
 }
